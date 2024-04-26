@@ -1,25 +1,31 @@
 {
   "format": 1,
   "restore": {
-    "/Users/szymon/RiderProjects/APBDcw3/APBDcw3/APBDcw3.csproj": {}
+    "C:\\Users\\Shaman\\RiderProjects\\APBDitnZad3\\APBDcw3\\APBDcw3.csproj": {}
   },
   "projects": {
-    "/Users/szymon/RiderProjects/APBDcw3/APBDcw3/APBDcw3.csproj": {
+    "C:\\Users\\Shaman\\RiderProjects\\APBDitnZad3\\APBDcw3\\APBDcw3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/szymon/RiderProjects/APBDcw3/APBDcw3/APBDcw3.csproj",
+        "projectUniqueName": "C:\\Users\\Shaman\\RiderProjects\\APBDitnZad3\\APBDcw3\\APBDcw3.csproj",
         "projectName": "APBDcw3",
-        "projectPath": "/Users/szymon/RiderProjects/APBDcw3/APBDcw3/APBDcw3.csproj",
-        "packagesPath": "/Users/szymon/.nuget/packages/",
-        "outputPath": "/Users/szymon/RiderProjects/APBDcw3/APBDcw3/obj/",
+        "projectPath": "C:\\Users\\Shaman\\RiderProjects\\APBDitnZad3\\APBDcw3\\APBDcw3.csproj",
+        "packagesPath": "C:\\Users\\Shaman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Shaman\\RiderProjects\\APBDitnZad3\\APBDcw3\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "/Users/szymon/.nuget/NuGet/NuGet.Config"
+          "C:\\Users\\Shaman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -70,7 +76,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/szymon/.dotnet/sdk/8.0.203/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Users\\Shaman\\.dotnet\\sdk\\8.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
